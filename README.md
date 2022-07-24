@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bobcat9857
+- 👋 Hi, I’m Rishabh Kumar Sharma
 - 👀 I’m interested in Space and Apps.
 - 🌱 I’m currently learning java.
 
