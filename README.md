@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Rishabh Kumar Sharma
-- 👀 I’m interested in Space and Apps.
-- 🌱 I’m currently learning java.
+- 👋 Hi there , I’m Rishabh Kumar Sharma
+- 👀 I’m interested in building apps and UI design.
+- 🌱 I’m currently learning DSA in java.
 
 <!---
 bobcat9857/bobcat9857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
