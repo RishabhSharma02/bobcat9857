@@ -1,8 +1,4 @@
 - 👋 Hi there , I’m Rishabh Kumar Sharma
 - 👀 I’m interested in building apps and UI design.
 - 🌱 I’m currently learning DSA in java.
-
-<!---
-bobcat9857/bobcat9857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Black Minimal Motivation Quote LinkedIn Banner](https://user-images.githubusercontent.com/100775129/184579735-3be264aa-13b3-4807-864e-ee40683a5b32.png)
