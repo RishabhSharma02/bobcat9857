@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bobcat9857" alt="bobcat9857" /></a> </p>
 
-- 🔭 I’m currently working on **Vertical Image Superrresolution with ESRGANs**
+- 🔭 I’m currently working on **Vertical Image Superresolution with ESRGANs**
 
 - 🌱 I’m currently learning **Web development ,DevOps**
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Flutter ,Firebase ,**
 
-- 📫 How to reach me **crj.rishabh@gmail.com**
+- 📫 How to reach me **rishabhsharma28302@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
